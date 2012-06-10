@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SSH for AnySoftKeyboard</string>
+    <string name="keyboard">SSH</string>
+    <string name="dictionary">SSH</string>
+</resources>
