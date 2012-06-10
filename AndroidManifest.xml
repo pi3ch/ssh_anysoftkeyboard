@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.anysoftkeyboard.languagepack.SSH"
-      android:versionCode="2"
+      android:versionCode="3"
       android:versionName="0.2.20120710-beta">
      <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="4"></uses-sdk>
 
