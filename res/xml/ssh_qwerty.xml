@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
-	xmlns:ask="http://schemas.android.com/apk/res/com.menny.android.anysoftkeyboard"
+	xmlns:ask="http://schemas.android.com/apk/res/com.anysoftkeyboard.languagepack.SSH"
     android:keyWidth="10%p"
     android:horizontalGap="0px"
     android:verticalGap="0px"
@@ -57,6 +57,6 @@
         <Key android:codes="32" android:keyWidth="30%p"/>
         <Key android:codes="9" android:keyIcon="@drawable/sym_keyboard_tab" />
         <Key android:codes="47" android:keyLabel="/" android:popupCharacters="\\" />
-        <Key android:codes="10" android:keyEdgeFlags="right" android:keyWidth="15%p" /> 
+        <Key android:codes="10" android:keyEdgeFlags="right" android:keyWidth="15%p" ask:longPressCode="-100"/> 
     </Row>
 </Keyboard>

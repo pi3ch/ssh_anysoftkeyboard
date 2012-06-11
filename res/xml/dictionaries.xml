@@ -10,9 +10,9 @@
 	 -->
 	<Dictionary 
 		id="644cb75a-82c3-46ca-9521-00fcf4682a2b" 
-		locale="en"
+		locale="xx"
 		nameResId="@string/dictionary" 
 		type="binary" 
-		dictionaryAssertName="binary.mp3" 
-		description=""/>
+		dictionaryAssertName="ssh_dict.mp3" 
+		description="List of most frequenct linux terminal commands"/>
 </Dictionaries>
